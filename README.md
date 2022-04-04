@@ -4,7 +4,7 @@
 | #               | Biodata             |
 | --------------- | ------------------- |
 | **Nama**        | Firman Maulana      |
-| **NIM**         | 312010266           |
+| **NIM**         | 312010252           |
 | **Kelas**       | TI.20.A.2           |
 | **Mata Kuliah** | Pemrograman Web     |
 
@@ -15,7 +15,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
+  <meta charset="UTF-8">   
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Box Element</title>
 </head>
